@@ -1,7 +1,6 @@
 🧠 AI Agents: Simple vs Distributed Workflows
 
-This repository compares two ways to build AI agents:<img width="1405" height="751" alt="temporal-workflows-overview" src="https://github.com/user-attachments/assets/aa94d7ae-ce4d-45e3-bcad-305206b7f8f5" />
-
+This repository compares two ways to build AI agents:
 
 Simple execution for fast development
 
